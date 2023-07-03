@@ -43,8 +43,8 @@ small {
 
 <h2>Good Food on the Web</h2>
 <ul>
-  <li>The Food Network</li>
-  <li>Epicurious </li>
+  <li><a href="HTTP://www.foodnetwork.com/"></a>The Food Network</li>
+  <li><a href="HTTP://www.https://www.epicurious.com/"></a>Epicurious </li>
 </ul>
 
 <p><small>Copyright 2018, Jennifer Robbins</small></p>
