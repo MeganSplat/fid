@@ -1,0 +1,81 @@
+@charset "UTF-8";
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 15% 0;
+  background: #944040;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  background: url() center top repeat-x;
+  background: 
+    url(pngkey.com-english-bulldog-png-2851071.png) 95% bottom no-repeat;
+  background-color: rgba(255,255,255,.5);
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: rgb(0, 0, 0);
+}
+a:visited {
+  color: #5c0404;
+}
+a:focus, a:hover {
+  color: #5c0404;
+  background-color: #ffffff;
+}
+a:active {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+h1 {
+  font: bold 2em Verdana; 
+  text-transform: uppercase;
+  color: #000000;
+}
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase; ;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+h3 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: ;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+h2 + p {
+  text-align: center;
+  font-style: ;
+}
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ width: 50%;
+ 
+
+}
+
